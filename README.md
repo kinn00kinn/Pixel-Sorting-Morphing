@@ -1,6 +1,6 @@
 # Pixel Sorting Morphing
 
-[](./morphing_eased.gif)
+![](./morphing.gif)
 
 ## 概要
 
