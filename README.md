@@ -96,3 +96,8 @@ def main():
     - 調整後のフレーム履歴に基づき、各フレームの画像を再描画し、最終的な GIF アニメーションとして保存します。
 
 このアプローチにより、ピクセルの動きを事前に計算し、滑らかで確実に収束するアニメーションを効率的に生成しています。
+
+## 参考文献
+プログラムで利用した画像はウィキペディア・コモンズのパブリックドメインを用いました
+- [input : Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska](https://commons.wikimedia.org/wiki/Category:Featured_photographs_in_the_public_domain#/media/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg)
+- [target : President_Barack_Obama_(crop)](https://commons.wikimedia.org/wiki/Category:Featured_photographs_in_the_public_domain#/media/File:President_Barack_Obama_(crop).jpg)
